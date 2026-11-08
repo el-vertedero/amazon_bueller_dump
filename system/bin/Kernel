@@ -1,0 +1,8 @@
+#!/system/bin/sh
+
+while true
+do
+    /system/bin/cat /proc/kmsg
+    echo "KERNEL:  kernel_logging: cat exited, restarting"
+    sleep 5
+done
