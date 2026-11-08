@@ -1,0 +1,14 @@
+# bueller-user 5.1.1 LVY48F 51.6.5.6_user_656639420 release-keys
+- manufacturer: amazon
+- platform: msm8960
+- codename: bueller
+- flavor: bueller-user
+- release: 5.1.1
+- id: LVY48F
+- incremental: 51.6.5.6_user_656639420
+- tags: release-keys
+- fingerprint: Amazon/bueller/bueller:5.1.1/LVY48F/51.6.5.6_user_656639420:user/release-keys
+- is_ab: false
+- brand: Amazon
+- branch: bueller-user-5.1.1-LVY48F-51.6.5.6_user_656639420-release-keys
+- repo: amazon_bueller_dump

@@ -1,0 +1,1 @@
+androidboot.hardware=qcom user_debug=22 msm_rtb.filter=0x3F ehci-hcd.park=3 maxcpus=2 androidboot.selinux=enforcing
